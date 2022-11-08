@@ -99,30 +99,15 @@ body {
   align-items: flex-start;
 }
 
-
 .about_heading {
-  position: relative;
-  padding: 4em;
-  right: 8em;
-  bottom: 16rem;
-  font-size: 5em;
-  font-family: "Josefin Sans", sans-serif;
-  font-weight: 300;
+  font-size: 6em;
+  font-family: var(--font);
 }
-
-
-
-.about p,
-h3 {
-  position: relative;
-  right: 10em;
-  bottom: 15em;
-  font-size: 2em;
-  font-weight: 300;
-  color: white;
-  opacity: 1;
+.about p {
+  font-size: 1.4em;
+  color: var(--color);
+  opacity: 0.6;
 }
-
 
 /* ---------- skills section ---------- */
 .skills {
