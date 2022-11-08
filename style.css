@@ -23,6 +23,7 @@
 body {
   background: var(--bg);
   color: var(--color);
+  display: flex;
 }
 
 .center {
