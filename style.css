@@ -111,7 +111,6 @@ body {
 }
 
 .about_heading {
-  width: 100%;
   margin: auto;
   position: relative;
   padding: 4em;
@@ -126,7 +125,6 @@ body {
 
 .about p,
 h3 {
-  width: 100%;
   margin: auto;
   position: relative;
   right: 10em;
