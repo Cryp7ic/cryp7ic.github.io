@@ -85,6 +85,11 @@ body {
   background: var(--secondary-color);
 }
 
+#particles-js {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
 
 /* ---------- about section ---------- */
 .about {
@@ -99,32 +104,17 @@ body {
   align-items: flex-start;
 }
 
-.about img {
-  width: 15em;
-  margin: 10em;
-}
+
 
 .about_heading {
-  position: relative;
-  padding: 4em;
-  right: 8em;
-  bottom: 16rem;
-  font-size: 5em;
-  font-family: "Josefin Sans", sans-serif;
-  font-weight: 300;
+  font-size: 6em;
+  font-family: var(--font);
 }
 
-
-
-.about p,
-h3 {
-  position: relative;
-  right: 10em;
-  bottom: 15em;
-  font-size: 2em;
-  font-weight: 300;
-  color: white;
-  opacity: 1;
+.about p {
+  font-size: 1.4em;
+  color: var(--color);
+  opacity: 0.6;
 }
 
 
