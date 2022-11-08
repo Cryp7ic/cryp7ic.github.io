@@ -85,12 +85,6 @@ body {
   background: var(--secondary-color);
 }
 
-#particles-js {
-  width: 100%;
-  position: absolute;
-  z-index: -1;
-}
-
 /* ---------- about section ---------- */
 .about {
   width: 100%;
@@ -116,6 +110,7 @@ body {
   font-size: 2em;
   color: var(--color);
   opacity: 1;
+  font-weight: 300;
 }
 
 
