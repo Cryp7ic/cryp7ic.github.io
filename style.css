@@ -101,12 +101,15 @@ body {
 
 
 .about_heading {
-  font-size: 6em;
+  margin-top: 0.5rem;
+  font-size: 5rem;
   font-family: var(--font);
   font-weight: 300;
 }
 
 .about p {
+  margin-top: 5rem;
+  margin-bottom: 20rem;
   font-size: 2em;
   color: var(--color);
   opacity: 1;
