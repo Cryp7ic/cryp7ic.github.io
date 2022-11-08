@@ -109,6 +109,7 @@ body {
 .about_heading {
   font-size: 6em;
   font-family: var(--font);
+  font-weight: 300;
 }
 
 .about p {
