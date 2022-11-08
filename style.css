@@ -125,6 +125,7 @@ body {
 
 .about p,
 h3 {
+  margin: auto;
   position: relative;
   right: 10em;
   bottom: 15em;
