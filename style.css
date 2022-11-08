@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;700&display=swap');
 
 * {
-  margin: auto;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: var(--secondary-font);
@@ -23,7 +23,6 @@
 body {
   background: var(--bg);
   color: var(--color);
-  display: flex;
 }
 
 .center {
@@ -86,6 +85,7 @@ body {
   background: var(--secondary-color);
 }
 
+
 /* ---------- about section ---------- */
 .about {
   width: 100%;
@@ -99,15 +99,34 @@ body {
   align-items: flex-start;
 }
 
+.about img {
+  width: 15em;
+  margin: 10em;
+}
+
 .about_heading {
-  font-size: 6em;
-  font-family: var(--font);
+  position: relative;
+  padding: 4em;
+  right: 8em;
+  bottom: 16rem;
+  font-size: 5em;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 300;
 }
-.about p {
-  font-size: 1.4em;
-  color: var(--color);
-  opacity: 0.6;
+
+
+
+.about p,
+h3 {
+  position: relative;
+  right: 10em;
+  bottom: 15em;
+  font-size: 2em;
+  font-weight: 300;
+  color: white;
+  opacity: 1;
 }
+
 
 /* ---------- skills section ---------- */
 .skills {
