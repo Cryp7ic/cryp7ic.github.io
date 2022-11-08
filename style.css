@@ -110,6 +110,7 @@ body {
 }
 
 .about_heading {
+  margin: auto;
   position: relative;
   padding: 4em;
   right: 8em;
