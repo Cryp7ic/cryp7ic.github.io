@@ -15,7 +15,7 @@
   --color: #eaeaea;
   --light-color: #eaeaeaa4;
   --primary-color: #08d9d6;
-  --secondary-color: #002395;
+  --secondary-color: #0000cd;
   --font: 'Josefin Sans', sans-serif;
   --secondary-font: 'Josefin Sans', sans-serif;
 }
@@ -85,6 +85,12 @@ body {
   background: var(--secondary-color);
 }
 
+#particles-js {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
 /* ---------- about section ---------- */
 .about {
   width: 100%;
@@ -102,7 +108,7 @@ body {
 
 .about_heading {
   margin-top: 0.5rem;
-  font-size: 5rem;
+  font-size: 5em;
   font-family: var(--font);
   font-weight: 300;
 }
@@ -159,7 +165,7 @@ body {
   background: var(--bg-dark);
   background: rgba(255, 255, 255, 0.089);
   backdrop-filter: blur(20px);
-  border: 1px solid rgba(255, 255, 255, 0.068);
+  border: 1px solid rgba(16, 18, 31);
   border-bottom: none;
   display: flex;
   justify-content: center;
@@ -193,6 +199,7 @@ body {
 }
 
 .skill_head {
+  top: 1px;
   font-size: 5em;
   font-family: var(--font);
   font-weight: 300;
