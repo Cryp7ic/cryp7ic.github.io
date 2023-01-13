@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'My portfolio website'
+    twitter: 'Cryp7ic11'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Cryp7ic/cryp7ic.github.com'
     content_dir: content
     branch: main
   avatar:
