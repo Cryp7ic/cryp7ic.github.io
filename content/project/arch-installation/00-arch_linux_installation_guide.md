@@ -1,11 +1,10 @@
 ---
-author:
-  name: "Thomas Gröbmar"
-linktitle: Arch Linux Installation Guide
-title: Arch Linux Installation Guide
-series:
-- Linux
-weight: 
+title: Arch linux Installation Guide
+summary: Arch Linux installation walkthrough using GRUB, Ext4, DWM.
+tags:
+  - linux
+date: 2023-01-13
+external_link: http://github.com/Cryp7ic
 ---
 
 A guide for installing Arch Linux made by Cryp7ic.
