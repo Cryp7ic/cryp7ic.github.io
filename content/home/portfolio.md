@@ -28,10 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
+    - name: Linux
+      tag: linux
+    - name: Cyber Security
+      tag: sec
     - name: NLP
       tag: NLP
 
