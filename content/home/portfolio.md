@@ -32,8 +32,8 @@ content:
       tag: linux
     - name: Cyber Security
       tag: sec
-    - name: NLP
-      tag: NLP
+    - name: Server
+      tag: server
 
 design:
   columns: '1'
