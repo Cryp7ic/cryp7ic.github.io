@@ -1,10 +1,10 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Disk Encryption in Linux
+summary: Disk encryption with XFS file system
 tags:
   - linux
   - sec
-date: 2022-01-01
+date: 2023-01-13
 external_link: http://github.com
 ---
 
