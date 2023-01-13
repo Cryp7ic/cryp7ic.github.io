@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Linux, Open Source Development, Computer Networks, Cyber Security Engineering.
 
 #interests:
 #- Linux
@@ -47,14 +47,14 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/Cryp7ic11
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/Cryp7ic
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link: https://github.com/Cryp7ic
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
