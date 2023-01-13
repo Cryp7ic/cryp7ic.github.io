@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Cryp7ic'
     license:
       enable: true
       allow_derivatives: false
