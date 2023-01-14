@@ -43,9 +43,9 @@ footer:
   copyright:
     notice: '© {year} Cryp7ic'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
