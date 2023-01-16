@@ -4,7 +4,7 @@ summary: Arch Linux installation walkthrough using GRUB, Ext4, DWM.
 tags:
   - linux
 date: 2023-01-13
-external_link: http://github.com/Cryp7ic
+external_link: /project/arch-installation
 ---
 
 A guide for installing Arch Linux made by Cryp7ic.
