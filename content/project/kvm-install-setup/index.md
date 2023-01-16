@@ -1,6 +1,6 @@
 ---
 title: KVM Installation and Setup on Arch
-summary: KVM Installation, network cofiguration and disk resizing.
+summary: Guide for Installing & Configuring KVM, Setting the network adapter to bridged and extending disk size.
 tags:
   - linux
 date: 2023-01-16
