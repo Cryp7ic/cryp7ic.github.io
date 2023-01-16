@@ -32,8 +32,8 @@ content:
       tag: linux
     - name: Cyber Security
       tag: sec
-    - name: Server
-      tag: server
+    - name: Network
+      tag: network
 
 design:
   columns: '1'
