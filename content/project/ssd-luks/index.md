@@ -5,7 +5,7 @@ tags:
   - linux
   - sec
 date: 2023-01-13
-external_link: http://github.com
+external_link: /project/ssd-luks
 ---
 
 ## Linux encryption methods
