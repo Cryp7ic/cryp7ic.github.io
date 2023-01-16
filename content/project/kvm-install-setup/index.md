@@ -4,7 +4,7 @@ summary: KVM Installation, network cofiguration and disk resizing.
 tags:
   - linux
 date: 2023-01-16
-external_link: http://github.com/Cryp7ic
+external_link: /project/kvm-install-setup
 ---
 
 Kernel-based Virtual Machine (KVM) is a visualisation module in the Linux kernel that allows the kernel to function as a hypervisor.
